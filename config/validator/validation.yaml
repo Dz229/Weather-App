@@ -1,0 +1,3 @@
+App\Entity\Location: 
+  properties:
+    latitude:
